@@ -59,8 +59,3 @@ To get this project running locally, follow these steps:
 ## Contributing
 Feel free to submit pull requests or open issues if you'd like to contribute!
 
-## License
-This project is licensed under the MIT License.
-```
-
-Let me know if you'd like to make any adjustments!
